@@ -1,0 +1,5 @@
+node_modules/
+/index.js
+/Constants.js
+/storage-memory.js
+/npm-debug.log
